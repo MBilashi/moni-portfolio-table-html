@@ -1,0 +1,13 @@
+a {
+    /* text-transform: uppercase; */
+    color: black;
+    font-size: 18px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.menu-item td a {
+    text-decoration: none;
+}
